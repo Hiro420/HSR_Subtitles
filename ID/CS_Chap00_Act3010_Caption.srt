@@ -1,11 +1,11 @@
 1
-00:00:0:00:00,440 --> 00:00:0:00:06,120
+00:00:00,440 --> 00:00:06,120
 Berita terbaru bagi para penggemar Nyonya Herta - hei, para Heritor! Selamat malam! Ini adalah siaran berita darurat.
 
 2
-00:00:0:00:06,840 --> 00:00:0:00:17,440
+00:00:06,840 --> 00:00:17,440
 Nyonya Herta yang hebat — anggota ke-83 dari Genius Society, telah menjadi target serangan di Stasiun Luar Angkasa dan sejak itu menghilang. Sampai saat ini, belum ada kelompok yang mengaku bertanggung jawab.
 
 3
-00:00:0:00:18,320 --> 00:00:0:00:24,600
+00:00:18,320 --> 00:00:24,600
 Banyak Heritor yang merasa kesal atas ketidakkompetenan manajemen atas dan telah memberikan keluhan dan keprihatinan yang besar.

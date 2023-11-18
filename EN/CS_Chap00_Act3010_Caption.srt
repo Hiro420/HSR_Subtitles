@@ -1,11 +1,11 @@
 1
-00:00:0:00:00,440 --> 00:00:0:00:06,120
+00:00:00,440 --> 00:00:06,120
 News Flash for Madam Herta fans - hey, Heritors! Good evening! This is an urgent news broadcast.
 
 2
-00:00:0:00:06,840 --> 00:00:0:00:17,440
+00:00:06,840 --> 00:00:17,440
 The great Madam Herta, member 83 of the Genius Society, was targeted in an attack at the space station and has since gone missing. To date, no group has stepped forward to claim responsibility.
 
 3
-00:00:0:00:18,320 --> 00:00:0:00:24,600
+00:00:18,320 --> 00:00:24,600
 Many Heritors are therefore upset at the ineptitude of upper management and have issued strong complaints and concerns.
